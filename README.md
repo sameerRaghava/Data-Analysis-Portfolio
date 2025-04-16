@@ -8,5 +8,4 @@ Throughout my career, I’ve worked on real-time data-driven solutions, includin
 
 I thrive in collaborative environments, actively participate in sprint meetings, and contribute to the full development lifecycle — from requirement analysis to production support. My commitment to quality is reflected in consistently achieving a 95% code quality score and improving server response times.
 
-Here is my Resume 
-SameerRaghavendraResume.pdf
+Here is my Resume https://github.com/sameerRaghava/Data-Analysis-Portfolio/blob/main/SameerRaghavendraResume.pdf
