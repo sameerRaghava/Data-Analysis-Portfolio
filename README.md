@@ -17,6 +17,7 @@ These are Portfolio Projects
 1. Project Name: Vending Machine Usage Analytics
 
 Code : https://github.com/sameerRaghava/My-First-Project
+
 Summary: This project focuses on analyzing product usage data collected from a network of smart vending machines. Using Python and SQL, I developed a solution to monitor inventory levels and usage trends in real time. By identifying high-demand items and restocking inefficiencies, the model enhanced operational efficiency and contributed to a 40% improvement in data retrieval speed. Visualizations were created in Power BI to help stakeholders make informed decisions regarding stock routing and supply chain optimizations.
 
 # 🧮 Customer Purchase Trends Analysis
@@ -46,6 +47,7 @@ This project analyzes customer transaction data to discover patterns and insight
 2. Project Name: Customer Purchase Trends Analysis
 
 code: https://github.com/sameerRaghava/My-Second-Project
+
 Summary: In this project, I used Microsoft Excel to perform end-to-end data analysis on a sales dataset. The workflow included data cleaning, formula-driven transformations, pivot table creation, and dashboard visualizations. The final outcome is an interactive and insightful Excel dashboard that highlights sales performance by region, product category, and customer type. This project demonstrates strong analytical thinking and proficiency in Excel’s data tools, valuable for quick insights in business contexts.
 
 # 📊 Sales Insights Dashboard using Excel
@@ -82,8 +84,8 @@ This project showcases how Excel can be effectively used for data analysis and b
 3.Project Name: Sales Insights Dashboard using Excel
 
 code: https://github.com/sameerRaghava/My-Third-Project
-Summary:
-In this project, I used Microsoft Excel to perform end-to-end data analysis on a sales dataset. The workflow included data cleaning, formula-driven transformations, pivot table creation, and dashboard visualizations. The final outcome is an interactive and insightful Excel dashboard that highlights sales performance by region, product category, and customer type. This project demonstrates strong analytical thinking and proficiency in Excel’s data tools, valuable for quick insights in business contexts.
+
+Summary: In this project, I used Microsoft Excel to perform end-to-end data analysis on a sales dataset. The workflow included data cleaning, formula-driven transformations, pivot table creation, and dashboard visualizations. The final outcome is an interactive and insightful Excel dashboard that highlights sales performance by region, product category, and customer type. This project demonstrates strong analytical thinking and proficiency in Excel’s data tools, valuable for quick insights in business contexts.
 
 Overview
 This project demonstrates the power of data visualization and business intelligence using Microsoft Power BI. It focuses on analyzing employee performance, departmental distribution, and productivity metrics to assist in strategic HR decision-making.
@@ -116,6 +118,7 @@ This project demonstrates the power of data visualization and business intellige
   4.  Project Name: Sales and Customer Analytics using SQL
  
   code : https://github.com/sameerRaghava/My-Fourth-Project
+  
   Summary: This project showcases how SQL can be used to extract meaningful insights from a structured relational database. By writing optimized queries, I analyzed customer purchasing behavior, revenue trends, and product popularity. Key operations involved data filtering, joining multiple tables, aggregation, and using window functions. The project highlights strong foundational skills in SQL for data analysis and reporting.
 
   # 🗃️ Sales and Customer Analytics using SQL
